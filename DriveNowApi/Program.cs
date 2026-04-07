@@ -23,6 +23,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(cfg => {
     cfg.AddProfile<ClienteProfile>();
     cfg.AddProfile<AgenciaProfile>();
+    cfg.AddProfile<VeiculoProfile>();
+    cfg.AddProfile<LocacaoProfile>();
 });
 
 builder.Services.AddHttpClient<ViaCepService>();

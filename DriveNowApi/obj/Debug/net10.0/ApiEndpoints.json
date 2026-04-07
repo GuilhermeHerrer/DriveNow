@@ -158,6 +158,164 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "DriveNowApi.Controllers.LocacoesController",
+    "Method": "GetLocacoes",
+    "RelativePath": "api/Locacoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DriveNowApi.Controllers.LocacoesController",
+    "Method": "PostLocacao",
+    "RelativePath": "api/Locacoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "DriveNowApi.DTOs.LocacaoCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DriveNowApi.Controllers.LocacoesController",
+    "Method": "GetLocacaoId",
+    "RelativePath": "api/Locacoes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DriveNowApi.Controllers.LocacoesController",
+    "Method": "PutLocacao",
+    "RelativePath": "api/Locacoes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "DriveNowApi.DTOs.LocacaoCreateDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DriveNowApi.Controllers.LocacoesController",
+    "Method": "DeleteLocacao",
+    "RelativePath": "api/Locacoes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DriveNowApi.Controllers.VeiculosController",
+    "Method": "GetVeiculos",
+    "RelativePath": "api/Veiculos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DriveNowApi.Controllers.VeiculosController",
+    "Method": "PostVeiculo",
+    "RelativePath": "api/Veiculos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "DriveNowApi.DTOs.VeiculoCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DriveNowApi.Controllers.VeiculosController",
+    "Method": "GetVeiculoId",
+    "RelativePath": "api/Veiculos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DriveNowApi.Controllers.VeiculosController",
+    "Method": "PutVeiculo",
+    "RelativePath": "api/Veiculos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "DriveNowApi.DTOs.VeiculoCreateDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DriveNowApi.Controllers.VeiculosController",
+    "Method": "DeleteVeiculo",
+    "RelativePath": "api/Veiculos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DriveNowApi.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
