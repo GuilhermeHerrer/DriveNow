@@ -6,7 +6,6 @@ namespace DriveNowApi.DTOs
     {
         public DateOnly DataRetirada { get; set; }
         public DateOnly DataDevolucao { get; set; }
-        public string ValorTotal { get; set; }
         public int IdCliente { get; set; }
         public int IdVeiculo { get; set; }
     }

@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenowapi\\controllers\\locacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|solutionrelative:controllers\\locacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenowapi\\dtos\\locacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|solutionrelative:dtos\\locacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenowapi\\dtos\\locacaocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|solutionrelative:dtos\\locacaocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\DTOs\\LocacaoDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LocacaoDTO.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\DTOs\\LocacaoDTO.cs",
+              "RelativeToolTip": "DTOs\\LocacaoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:58:46.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocacaoCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\DTOs\\LocacaoCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\LocacaoCreateDTO.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\DTOs\\LocacaoCreateDTO.cs",
+              "RelativeToolTip": "DTOs\\LocacaoCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:26:21.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Controllers\\LocacoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocacoesController.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Controllers\\LocacoesController.cs",
+              "RelativeToolTip": "Controllers\\LocacoesController.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T10:14:00.744Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"

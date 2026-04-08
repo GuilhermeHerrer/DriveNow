@@ -54,6 +54,9 @@ namespace DriveNowApi.Controllers
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
 
+            if (dto.DataDevolucao < dto.DataRetirada) return BadRequest("A data de retirada não deve ser maior que a de devolução");
+            
+
             var clienteExiste = await _context.Clientes.AnyAsync(c => c.Id == dto.IdCliente);
             if (!clienteExiste)
                 return BadRequest($"O Cliente com ID {dto.IdCliente} não foi encontrado.");
@@ -62,7 +65,26 @@ namespace DriveNowApi.Controllers
             if (!veiculoExiste)
                 return BadRequest($"O Veículo com ID {dto.IdVeiculo} não foi encontrado.");
 
+            var dataHoje = DateOnly.FromDateTime(DateTime.Now);
+
+            var veiculoOcupado = await _context.Locacoes.AnyAsync(l =>
+                l.VeiculoId == dto.IdVeiculo &&
+                dto.DataRetirada <= l.DataDevolucao &&  
+                dto.DataDevolucao >= l.DataRetirada);
+
+            if (veiculoOcupado)
+            {
+                return BadRequest("Este veículo já possui uma locação em andamento e não está disponível.");
+            }
+
+            var duracaoLocacao = (dto.DataDevolucao.DayNumber - dto.DataRetirada.DayNumber);
+
+            var veiculo = await _context.Veiculos.FindAsync(dto.IdVeiculo);
+
+            var valorTotal = duracaoLocacao * decimal.Parse(veiculo.ValorDiaria, System.Globalization.CultureInfo.InvariantCulture);
+
             var locacao = _mapper.Map<Locacao>(dto);
+            locacao.ValorTotal = valorTotal.ToString();
 
             _context.Add(locacao);
             await _context.SaveChangesAsync();
@@ -76,19 +98,38 @@ namespace DriveNowApi.Controllers
         public async Task<IActionResult> PutLocacao(LocacaoCreateDTO dto, int id)
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
+            if (dto.DataDevolucao < dto.DataRetirada) return BadRequest("A data de retirada não deve ser maior que a de devolução");
 
             var locacaoExistente = await _context.Locacoes.FindAsync(id);
+            if (locacaoExistente == null) return NotFound("Locação não encontrada.");
 
-            if (locacaoExistente == null) return NotFound("Locação não encontrado.");
+            var clienteExiste = await _context.Clientes.AnyAsync(c => c.Id == dto.IdCliente);
+            if (!clienteExiste) return BadRequest($"O Cliente com ID {dto.IdCliente} não foi encontrado.");
+
+            var veiculo = await _context.Veiculos.FindAsync(dto.IdVeiculo);
+            if (veiculo == null) return BadRequest($"O Veículo com ID {dto.IdVeiculo} não foi encontrado.");
+
+            var veiculoOcupado = await _context.Locacoes.AnyAsync(l =>
+                l.Id != id &&
+                l.VeiculoId == dto.IdVeiculo &&
+                dto.DataRetirada <= l.DataDevolucao &&
+                dto.DataDevolucao >= l.DataRetirada);
+            if (veiculoOcupado) return BadRequest("Este veículo já possui uma locação nesse período.");
+
+            var duracaoLocacao = (dto.DataDevolucao.DayNumber - dto.DataRetirada.DayNumber);
+            var valorTotal = duracaoLocacao * decimal.Parse(veiculo.ValorDiaria, System.Globalization.CultureInfo.InvariantCulture);
 
             _mapper.Map(dto, locacaoExistente);
+            locacaoExistente.ValorTotal = valorTotal.ToString();
 
             _context.Update(locacaoExistente);
             await _context.SaveChangesAsync();
+
             await _context.Entry(locacaoExistente).Reference(l => l.Cliente).LoadAsync();
             await _context.Entry(locacaoExistente).Reference(l => l.Veiculo).LoadAsync();
-            var locacaoDTO = _mapper.Map<LocacaoDTO>(locacaoExistente);
-            return Ok(locacaoDTO);
+
+            var locacaoExibicao = _mapper.Map<LocacaoDTO>(locacaoExistente);
+            return Ok(locacaoExibicao);
         }
 
         [HttpDelete("{id}")]

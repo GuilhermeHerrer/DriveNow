@@ -600,10 +600,6 @@
             "type": "string",
             "format": "date"
           },
-          "valorTotal": {
-            "type": "string",
-            "nullable": true
-          },
           "idCliente": {
             "type": "integer",
             "format": "int32"
