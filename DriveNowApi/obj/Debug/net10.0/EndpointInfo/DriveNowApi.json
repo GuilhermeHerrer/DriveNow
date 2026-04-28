@@ -585,6 +585,10 @@
           "cpf": {
             "minLength": 1,
             "type": "string"
+          },
+          "fotoUrl": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -633,8 +637,12 @@
             "type": "string"
           },
           "agenciaId": {
-            "minLength": 1,
-            "type": "string"
+            "type": "integer",
+            "format": "int32"
+          },
+          "fotoUrl": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

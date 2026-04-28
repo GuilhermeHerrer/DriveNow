@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\controllers\\locacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|solutionrelative:controllers\\locacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|solutionrelative:controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\views\\locacao\\criarlocacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|solutionrelative:views\\locacao\\criarlocacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\models\\veiculoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|solutionrelative:models\\veiculoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\models\\veiculoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|solutionrelative:models\\veiculoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\views\\veiculos\\criarveiculo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|solutionrelative:views\\veiculos\\criarveiculo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\models\\locacaoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|solutionrelative:models\\locacaoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\models\\clienteview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|solutionrelative:models\\clienteview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\views\\clientes\\criarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|solutionrelative:views\\clientes\\criarcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\views\\locacao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|solutionrelative:views\\locacao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\models\\clienteview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|solutionrelative:models\\clienteview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C5BBA0E7-0ECC-4496-87CC-9570B8E7FAB9}|DriveNow.MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenow.mvc\\controllers\\locacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F3F21-9121-BE9F-F7BF-8E01BD44956C}|DriveNow.MVC.csproj|solutionrelative:controllers\\locacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,112 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CriarLocacao.cshtml",
-              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Views\\Locacao\\CriarLocacao.cshtml",
-              "RelativeDocumentMoniker": "Views\\Locacao\\CriarLocacao.cshtml",
-              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Views\\Locacao\\CriarLocacao.cshtml",
-              "RelativeToolTip": "Views\\Locacao\\CriarLocacao.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-08T11:27:27.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VeiculoView.cs",
-              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Models\\VeiculoView.cs",
-              "RelativeDocumentMoniker": "Models\\VeiculoView.cs",
-              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Models\\VeiculoView.cs",
-              "RelativeToolTip": "Models\\VeiculoView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T11:15:46.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClienteView.cs",
-              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Models\\ClienteView.cs",
-              "RelativeDocumentMoniker": "Models\\ClienteView.cs",
-              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Models\\ClienteView.cs",
-              "RelativeToolTip": "Models\\ClienteView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T11:14:43.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-08T11:01:41.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Views\\Locacao\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Locacao\\Index.cshtml",
-              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Views\\Locacao\\Index.cshtml",
-              "RelativeToolTip": "Views\\Locacao\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-08T10:57:41.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LocacaoView.cs",
-              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Models\\LocacaoView.cs",
-              "RelativeDocumentMoniker": "Models\\LocacaoView.cs",
-              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Models\\LocacaoView.cs",
-              "RelativeToolTip": "Models\\LocacaoView.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T10:48:20.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LocacaoController.cs",
-              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Controllers\\LocacaoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LocacaoController.cs",
-              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Controllers\\LocacaoController.cs",
-              "RelativeToolTip": "Controllers\\LocacaoController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA1wC8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T10:49:03.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwA0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T10:45:40.606Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -159,6 +55,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CriarVeiculo.cshtml",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Views\\Veiculos\\CriarVeiculo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Veiculos\\CriarVeiculo.cshtml",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Views\\Veiculos\\CriarVeiculo.cshtml",
+              "RelativeToolTip": "Views\\Veiculos\\CriarVeiculo.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T17:49:03.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VeiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Controllers\\VeiculosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VeiculosController.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Controllers\\VeiculosController.cs",
+              "RelativeToolTip": "Controllers\\VeiculosController.cs",
+              "ViewState": "AgIAABEAAABAjuPzqqAuwCYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T17:42:28.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeiculoView.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Models\\VeiculoView.cs",
+              "RelativeDocumentMoniker": "Models\\VeiculoView.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Models\\VeiculoView.cs",
+              "RelativeToolTip": "Models\\VeiculoView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T17:03:30.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T16:33:29.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteView.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Models\\ClienteView.cs",
+              "RelativeDocumentMoniker": "Models\\ClienteView.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Models\\ClienteView.cs",
+              "RelativeToolTip": "Models\\ClienteView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T16:29:47.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CriarCliente.cshtml",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Views\\Clientes\\CriarCliente.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\CriarCliente.cshtml",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Views\\Clientes\\CriarCliente.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\CriarCliente.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T15:25:44.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LocacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Controllers\\LocacaoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocacaoController.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Controllers\\LocacaoController.cs",
+              "RelativeToolTip": "Controllers\\LocacaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T15:14:52.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNow.MVC\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAwwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T15:11:39.983Z",
+              "EditorCaption": ""
             }
           ]
         }

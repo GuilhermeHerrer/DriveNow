@@ -71,6 +71,9 @@ namespace DriveNowApi.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
+                    b.Property<string>("FotoUrl")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Nome")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -127,8 +130,11 @@ namespace DriveNowApi.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int?>("AgenciaId")
+                    b.Property<int>("AgenciaId")
                         .HasColumnType("int");
+
+                    b.Property<string>("FotoUrl")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Nome")
                         .IsRequired()
@@ -175,7 +181,9 @@ namespace DriveNowApi.Migrations
                 {
                     b.HasOne("DriveNowApi.Models.Agencia", "Agencia")
                         .WithMany()
-                        .HasForeignKey("AgenciaId");
+                        .HasForeignKey("AgenciaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Agencia");
                 });

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DriveNowApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+873735286ba15f460bf785b4a5fcde68be0564d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e5063990a084ffacfd7f1e329d0abd12681c030")]
 [assembly: System.Reflection.AssemblyProductAttribute("DriveNowApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DriveNowApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

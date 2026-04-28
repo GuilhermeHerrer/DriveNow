@@ -1,5 +1,14 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\imagens\clientes\0e0ccb6d-0d3c-4fc2-902e-420eb7479967-foto.jpg
+wwwroot\imagens\veiculos\38dff57e-3fee-4c18-82cd-29839663ddfc-44990304802_REDACAO_ENEM2025.JPG
+wwwroot\imagens\veiculos\3d2ed28d-87f2-41c1-a267-300a6b807543-44990304802_REDACAO_ENEM2025.JPG
+wwwroot\imagens\veiculos\4543b0aa-a3fb-42da-985d-6e204cab0f67-44990304802_REDACAO_ENEM2025.JPG
+wwwroot\imagens\veiculos\7ecc20d6-031c-415d-86eb-1f64c5bc9c4c-mariposa.jpg
+wwwroot\imagens\veiculos\9403a444-3cdb-4e2b-89da-59e59f7a816c-foto.jpg
+wwwroot\imagens\veiculos\9690f081-b694-492f-b3f3-ef1aca054604-foto.jpg
+wwwroot\imagens\veiculos\9b7af50a-f237-4f8c-a7f0-11c6422c8a4c-44990304802_REDACAO_ENEM2025.JPG
+wwwroot\imagens\veiculos\d8272e85-177e-4dbc-8421-d28f283256f9-mariposa.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

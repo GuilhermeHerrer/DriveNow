@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenowapi\\controllers\\locacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|solutionrelative:controllers\\locacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Migrations\\20260428181513_ModificandoFotos2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260428181513_ModificandoFotos2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenowapi\\dtos\\locacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|solutionrelative:dtos\\locacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenowapi\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|solutionrelative:models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenowapi\\dtos\\locacaocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|solutionrelative:dtos\\locacaocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenowapi\\dtos\\veiculocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|solutionrelative:dtos\\veiculocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenowapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenowapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenowapi\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|solutionrelative:dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Migrations\\20260428172422_ModificandoFotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260428172422_ModificandoFotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|c:\\users\\44990304802\\documents\\2026\\backend\\drivenow\\drivenowapi\\controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C1DC00-0F76-B785-6FD4-543E01ACFFD2}|DriveNowApi.csproj|solutionrelative:controllers\\veiculoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Migrations\\20260428150112_AddCamposFotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260428150112_AddCamposFotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LocacaoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\DTOs\\LocacaoDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\LocacaoDTO.cs",
-              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\DTOs\\LocacaoDTO.cs",
-              "RelativeToolTip": "DTOs\\LocacaoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20260428181513_ModificandoFotos2.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Migrations\\20260428181513_ModificandoFotos2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260428181513_ModificandoFotos2.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Migrations\\20260428181513_ModificandoFotos2.cs",
+              "RelativeToolTip": "Migrations\\20260428181513_ModificandoFotos2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T10:58:46.991Z",
+              "WhenOpened": "2026-04-28T18:15:13.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260428172422_ModificandoFotos.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Migrations\\20260428172422_ModificandoFotos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260428172422_ModificandoFotos.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Migrations\\20260428172422_ModificandoFotos.cs",
+              "RelativeToolTip": "Migrations\\20260428172422_ModificandoFotos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T17:24:23.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T17:04:17.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260428150112_AddCamposFotos.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Migrations\\20260428150112_AddCamposFotos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260428150112_AddCamposFotos.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Migrations\\20260428150112_AddCamposFotos.cs",
+              "RelativeToolTip": "Migrations\\20260428150112_AddCamposFotos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T15:01:13.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LocacaoCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\DTOs\\LocacaoCreateDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\LocacaoCreateDTO.cs",
-              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\DTOs\\LocacaoCreateDTO.cs",
-              "RelativeToolTip": "DTOs\\LocacaoCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Title": "VeiculoCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\DTOs\\VeiculoCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\VeiculoCreateDTO.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\DTOs\\VeiculoCreateDTO.cs",
+              "RelativeToolTip": "DTOs\\VeiculoCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T10:26:21.263Z",
+              "WhenOpened": "2026-04-28T15:00:53.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LocacoesController.cs",
-              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Controllers\\LocacoesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LocacoesController.cs",
-              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Controllers\\LocacoesController.cs*",
-              "RelativeToolTip": "Controllers\\LocacoesController.cs*",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAQwHsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T10:14:00.744Z",
+              "WhenOpened": "2026-04-28T15:00:49.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Models\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Models\\Veiculo.cs",
+              "RelativeToolTip": "Models\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T15:00:35.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\DTOs\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ClienteDTO.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\DTOs\\ClienteDTO.cs",
+              "RelativeToolTip": "DTOs\\ClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T14:57:16.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VeiculosController.cs",
+              "DocumentMoniker": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Controllers\\VeiculosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VeiculosController.cs",
+              "ToolTip": "C:\\Users\\44990304802\\Documents\\2026\\BackEnd\\DriveNow\\DriveNowApi\\Controllers\\VeiculosController.cs",
+              "RelativeToolTip": "Controllers\\VeiculosController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwDYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T14:42:35.671Z",
               "EditorCaption": ""
             },
             {

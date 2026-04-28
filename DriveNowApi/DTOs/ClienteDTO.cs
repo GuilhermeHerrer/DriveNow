@@ -1,5 +1,6 @@
-﻿using System.ComponentModel.DataAnnotations;
-using DriveNowApi.Service;
+﻿using DriveNowApi.Service;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DriveNowApi.DTOs
 {
@@ -12,5 +13,6 @@ namespace DriveNowApi.DTOs
         public string Nome { get; set; }
         [Required, ValidadorCpfService]
         public string Cpf { get; set; }
+        public string? FotoUrl { get; set; }
     }
 }

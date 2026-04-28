@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DriveNowApi.DTOs
 {
@@ -11,6 +12,7 @@ namespace DriveNowApi.DTOs
         [Required]
         public string ValorDiaria { get; set; }
         [Required]
-        public string AgenciaId { get; set; }
+        public int AgenciaId { get; set; }
+        public string? FotoUrl { get; set; }
     }
 }

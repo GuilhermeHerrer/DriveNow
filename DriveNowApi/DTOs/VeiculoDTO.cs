@@ -12,5 +12,6 @@ namespace DriveNowApi.DTOs
         [Required]
         public string ValorDiaria { get; set; }
         public string NomeAgencia { get; set; }
+        public string? FotoUrl { get; set; }
     }
 }

@@ -2,6 +2,7 @@
 using DriveNowApi.Data;
 using DriveNowApi.DTOs;
 using DriveNowApi.Models;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -15,10 +16,13 @@ namespace DriveNowApi.Controllers
     {
         public readonly AppDbContext _context;
         private readonly IMapper _mapper;
-        public ClientesController(AppDbContext context, IMapper mapper)
+        private readonly IWebHostEnvironment _webHostEnvironment;
+
+        public ClientesController(AppDbContext context, IMapper mapper, IWebHostEnvironment web)
         {
             _context = context;
             _mapper = mapper;
+            _webHostEnvironment = web;
         }
 
         [HttpGet]
